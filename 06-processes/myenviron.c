@@ -7,7 +7,7 @@
  */
 
 #include <stdlib.h>
-#inlcude <stdio.h>
+#include <stdio.h>
 #include <errno.h>
 #include <malloc.h>
 
